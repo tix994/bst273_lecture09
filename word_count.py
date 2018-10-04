@@ -36,7 +36,7 @@ chars = 0 # bytes is a built in one
 for line in fh:
     # print(line) # but print a giant output
     lines += 1
-    
+
 
 # for line in fh:
     # fh is the pointer ot each file
@@ -50,11 +50,3 @@ print(lines)
 #-------------------------------------------------------------------------------
 # our code for analyzing the data
 #-------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
